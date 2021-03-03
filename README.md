@@ -3,8 +3,7 @@
 
 
 
-The Australian English Dictionary -- or as I like to call it, AussieDic, is a modern Australian dictionary for Firefox 
-
+Australian English Word List. Please bare with me, I am working on overhauling the list so that it is merely a list of words that can be compatible with Microsoft Word and adapted for other dictionary formats as a more-accurate dictionary containing city names, politican names and profanity etc. 
 
 ## Features
 
