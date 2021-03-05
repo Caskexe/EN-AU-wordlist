@@ -8,7 +8,7 @@ Australian English Word List. Please bare with me, I am working on overhauling t
 ## Features
 
 - Profanity
-- Towns, Cities and other Aussie names
+- Towns, Cities and other Aussie names and nicknames (bloody Scomo, Albo and shit ay)
 
 ## Links
 - [Firefox Add-Ons](https://addons.mozilla.org/en-GB/firefox/addon/australian-english-dictionary/) - Firefox Browser Add-Ons Page
